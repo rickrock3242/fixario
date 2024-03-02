@@ -1,11 +1,11 @@
 {
   "name": "fixario",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "rickrock3242",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rickrock3242/fixario.git"
+    "url": "https://github.com/rickrock3242/fixario.git"
   },
   "scripts": {
     "build": "nest build",
